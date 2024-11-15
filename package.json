@@ -3,7 +3,7 @@
  "name": "nodejs-app",
  "version": "1.0.0.",
  "description": "simple Node.js application",
- "main": "app.js1",
+ "main": "app.js",
  "scripts": {
     "start": "node app.js"
  },
