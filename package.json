@@ -1,6 +1,6 @@
 
 {
- "name": "nodejs-app1",
+ "name": "nodejs-app",
  "version": "1.0.0.",
  "description": "simple Node.js application",
  "main": "app.js",
